@@ -1,0 +1,45 @@
+[submodule "free-programming-books"]
+	path = free-programming-books
+	url = git@github.com:EbookFoundation/free-programming-books.git
+[submodule "awesome"]
+	path = awesome
+	url = git@github.com:sindresorhus/awesome.git
+[submodule "coding-interview-university"]
+	path = coding-interview-university
+	url = git@github.com:jwasham/coding-interview-university.git
+[submodule "developer-roadmap"]
+	path = developer-roadmap
+	url = git@github.com:kamranahmedse/developer-roadmap.git
+[submodule "public-apis"]
+	path = public-apis
+	url = git@github.com:public-apis/public-apis.git
+[submodule "awesome-python"]
+	path = awesome-python
+	url = git@github.com:vinta/awesome-python.git
+[submodule "javascript-algorithms"]
+	path = javascript-algorithms
+	url = git@github.com:trekhleb/javascript-algorithms.git
+[submodule "nodebestpractices"]
+	path = nodebestpractices
+	url = git@github.com:goldbergyoni/nodebestpractices.git
+[submodule "realworld"]
+	path = realworld
+	url = git@github.com:gothinkster/realworld.git
+[submodule "tech-interview-handbook"]
+	path = tech-interview-handbook
+	url = git@github.com:yangshun/tech-interview-handbook.git
+[submodule "clean-code-javascript"]
+	path = clean-code-javascript
+	url = git@github.com:ryanmcdermott/clean-code-javascript.git
+[submodule "free-for-dev"]
+	path = free-for-dev
+	url = git@github.com:ripienaar/free-for-dev.git
+[submodule "og-aws"]
+	path = og-aws
+	url = git@github.com:open-guides/og-aws.git
+[submodule "awesome-for-beginners"]
+	path = awesome-for-beginners
+	url = git@github.com:MunGell/awesome-for-beginners.git
+[submodule "javascript-questions"]
+	path = javascript-questions
+	url = git@github.com:lydiahallie/javascript-questions.git
